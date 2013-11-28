@@ -5,4 +5,5 @@ h1			{width:800px; margin:auto; text-align:center; padding:30px 0px;}
 form		{width:400px; margin:auto;}
 .header		{text-align:center; margin:3px 10px 15px 10px;}
 .frmlabel	{display:block; margin-top:20px;}
-.frmcontrol	{display:block; margin-bottom:20px; background-color:#96DEFF; width:250px; border:1px solid #FFB896;}
+.frmcontrol	{display:block; margin-bottom:20px; background-color:#96DEFF; width:250px; border:1px solid #000000;}
+.frmbutton	{background-color:#FFB896;}
